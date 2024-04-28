@@ -1,5 +1,4 @@
-Please verify the SHA256 Hash: AA8862BB53498FA4B32E9DF2E737B59C02C35B0A26C27438E7F9B9585BD36FA5 before running the executable to ensure the file hasn't been tampered with
-Do this by opening PowerShell window in dist folder and running the command: <(Get-FileHash Blowdown_Analysis.exe -Algorithm SHA256).Hash>  
+Please verify the SHA256 Hash: AA8862BB53498FA4B32E9DF2E737B59C02C35B0A26C27438E7F9B9585BD36FA5 before running the executable to ensure the file hasn't been tampered with. Do this by opening PowerShell window in dist folder and running the command: <(Get-FileHash Blowdown_Analysis.exe -Algorithm SHA256).Hash>  
 
 RUN APPLICATION (after SHA-256 Checksum verification): Open dist folder and run Blowdown_Analysis.exe 
 USAGE INSTRUCTIONS: https://www.youtube.com/watch?v=aYoRy9T3CfQ
