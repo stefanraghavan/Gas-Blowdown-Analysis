@@ -9,3 +9,5 @@ of the gas.
 TO RUN APPLICATION: Open dist folder and run Blowdown_Analysis.exe
 
 To VIEW SOURCE CODE: Run Blowdown_Analysis.py
+
+Note: Blowdown_Analysis.exe is only supported on Windows. For Mac, clone the Repo and run the source code.
