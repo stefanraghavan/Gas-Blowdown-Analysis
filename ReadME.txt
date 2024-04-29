@@ -2,7 +2,7 @@ Please verify the SHA256 Hash: AA8862BB53498FA4B32E9DF2E737B59C02C35B0A26C27438E
 
 RUN APPLICATION (after SHA-256 Checksum verification): Open dist folder and run Blowdown_Analysis.exe 
 USAGE INSTRUCTIONS: https://www.youtube.com/watch?v=aYoRy9T3CfQ
-SOURCE CODE: Run Blowdown_Analysis.py
+SOURCE CODE: Run Blowdown_Analysis.py (Run Blowdown_plot_raw.py for generating raw plots)
 NOTE: Blowdown_Analysis.exe is only supported on Windows. For Mac, clone the Repo and run the python source code.
 
 BACKGROUND:
